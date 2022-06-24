@@ -29,7 +29,7 @@ Ruby on RailsをAPIとしてVue.jsを使ったリアルタイムチャット
 
 ## デモ
 
-![デモ](https://user-images.githubusercontent.com/86139603/175461122-bab646cc-843e-4b0a-9016-0f21980f5bba.gif)
+https://user-images.githubusercontent.com/86139603/175462024-01361d66-5119-42a7-a10e-a6d73749b9c1.mp4
 
 ## 環境
 
