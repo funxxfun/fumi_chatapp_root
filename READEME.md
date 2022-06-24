@@ -27,6 +27,10 @@ Ruby on RailsをAPIとしてVue.jsを使ったリアルタイムチャット
 4. 退会機能
 5. OGPによるサムネイル表示
 
+## デモ
+
+![デモ](https://user-images.githubusercontent.com/86139603/175461122-bab646cc-843e-4b0a-9016-0f21980f5bba.gif)
+
 ## 環境
 
 * MacOS:Monterey
